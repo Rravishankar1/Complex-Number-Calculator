@@ -1,6 +1,6 @@
 # Complex Number Calculator
 
-The Complex Number Calculator offers methods for handling and computation using complex numbers.
+Methods for handling and computation using complex numbers.
 
 ## Description
 
@@ -25,7 +25,10 @@ The Complex Number Calculator offers a .class and .java file with static and non
 * Ensure both files stored in same folder
 * Execute code-- results returned in form "a + bi"
 
-## Future Objectives
+## Additional Notes
 
-* Front end interface to run as fully functioning calculator
-* Web upload to prevent need for downloaing files
+### Version History
+
+* Upload complex.java and complex.class
+* Developing front end interface-- end goal of proper calculator
+* Eventual web upload to prevent need for local hosting
